@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nama": "Dina",
+    "ulasan": "Rasanya enak banget dan pengirimannya cepat!"
+  },
+  {
+    "id": 2,
+    "nama": "Rudi",
+    "ulasan": "Harga terjangkau dan porsinya banyak!"
+  },
+  {
+    "id": 3,
+    "nama": "Lina",
+    "ulasan": "Cocok buat makan siang bareng keluarga."
+  },
+  {
+    "id": 4,
+    "nama": "Budi",
+    "ulasan": "Makanannya seperti buatan ibu di rumah!"
+  },
+  {
+    "id": 5,
+    "nama": "Sari",
+    "ulasan": "Sudah pesan 3 kali dan selalu puas!"
+  }
+]

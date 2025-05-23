@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1000",
+    "nama": "Nasi Goreng Spesial",
+    "harga": "25000",
+    "stok": 10,
+    "gambar": "/img/nasi-goreng.jpg"
+  },
+  {
+    "id": "2000",
+    "nama": "Ayam Bakar Madu",
+    "harga": "30000",
+    "stok": 5,
+    "gambar": "/img/ayam-bakar.jpg"
+  },
+  {
+    "id": "3000",
+    "nama": "Sate Ayam",
+    "harga": "20000",
+    "stok": 0,
+    "gambar": "/img/sate-ayam.jpg"
+  },
+  {
+    "id": "4000",
+    "nama": "Nasi Bakar",
+    "harga": "20000",
+    "stok": 25,
+    "gambar": "/img/nasi-bakar.jpg"
+  },
+  {
+    "id": "5000",
+    "nama": "Tumpeng",
+    "harga": "100000",
+    "stok": 3,
+    "gambar": "/img/tumpeng.jpg"
+  },
+   {
+    "id": "6000",
+    "nama": "Gudeg",
+    "harga": "100000",
+    "stok": 3,
+    "gambar": "/img/gudeg.jpg"
+  }
+]

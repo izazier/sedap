@@ -7,6 +7,9 @@ import User from "./pages/User";
 import GuestLayout from './layouts/GuestLayout';
 import GuestHome from './pages/GuestHome';
 import CekStokProduk from "./pages/CekStokProduk";
+import Products from "./pages/Products";
+import ProductDetail from "./pages/ProductDetail";
+
 
 
 
@@ -18,6 +21,7 @@ const AuthLayout = React.lazy(() => import("./layouts/AuthLayout"));
 const Login = React.lazy(() => import("./pages/Auth/Login"));
 const Register = React.lazy(() => import("./pages/Auth/Register"));
 const Forgot = React.lazy(() => import("./pages/Auth/Forgot"));
+const ProductDetail = React.lazy(() => import("./pages/ProductDetail"))
 
 function App() {
   return (
@@ -29,6 +33,8 @@ function App() {
           <Route path="/orders" element={<Orders />} />
           <Route path="/customer" element={<Customer />} />
           <Route path="/user" element={<User />} />
+          <Route path="/products" element={<Products />} />
+          <Route path="/products/:id" element={<ProductDetail />} /> 
         </Route>
 
         {/* Auth Layout */}
